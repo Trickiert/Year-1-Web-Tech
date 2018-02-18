@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+html
+{
+    font-family: Arial,  
+     Helvetica, sans-serif;
+	color: #0033CC;
+	margin-left:6em;
+    -webkit-font-smoothing: antialiased;
+	background-color: #FFFFFF;
+}
+
+a:link {color:#0099FF}
+a:active{color:#00CCFF}
+
+/* Border Code For Nav */
+
+#MainNav{ 
+	margin-right: 3em;
+	font-size:16px;
+}
+
+/* Title */
+
+h2{
+align-content: center;    
+}
+    
+/* For Resizing Main Image */
+Sunset
+{
+width: 100%;
+height: 100%;
+}
+
+#Offers{
+ align-content: center;
+text-decoration: underline;
+}
+
+    
+#IntroParagraph {
+    margin-top:2em;
+    border-style:double;
+    border-width: 0.2em;
+}
+
+/* footer CSS */
+#footer{
+	margin-top:2em;
+    border-style:dotted;
+    border-width: 0.1em;
+	font-size:10px;
+
+	
+/*Offer 1*/
+#HomeDeal1{	
+    margin-top:2em;
+    border-style:dotted;
+    border-width: 0.1em;
+	font-size:10px;
+}
+	
+/*Image 1*/
+NLCastle
+{  
+}

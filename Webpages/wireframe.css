@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{font-family: Arial,  
+     Helvetica, sans-serif;
+	color: #F7EEEE;
+	background: url(../Webpage%20Images/triangular/triangular.png);
+	margin-left:7em;
+}
+
+#MainNav{ 
+	margin-right: 3em;
+	font-size:16px;
+}
+
+
+a:link {color:#FFFFFF}
+a:active{color:#E5E2E2}

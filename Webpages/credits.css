@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+html
+{
+    font-family: Arial,  
+     Helvetica, sans-serif;
+	color: #0033CC;
+	margin-left:6em;
+    -webkit-font-smoothing: antialiased;
+	background-color: #FFFFFF;
+}
+
+/* Credits */
+#Amst
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Myk
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Ibiza
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Cuba
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#AF
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Lake
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Castle
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Sunset
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Swis
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#SMRT
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+
+#Email
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+#Post
+{
+    margin-top:1em;
+    border-style:dotted;
+    border-width: 0.1em;
+    
+}
+
+/* footer CSS */
+#footer1{
+	margin-top:2em;
+    border-style:dotted;
+    border-width: 0.2em;
+	font-size:10px;
+
+    a:link {color:#0099FF}
+    a:active{color:#00CCFF
+    
+}
+
+a:link {color:#0099FF}
+a:active{color:#00CCFF}

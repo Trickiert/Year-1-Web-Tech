@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+html
+{
+    font-family: Arial,  
+     Helvetica, sans-serif;
+	color: #0033CC;
+	margin-left:6em;
+    -webkit-font-smoothing: antialiased;
+	background-color: #FFFFFF;
+}
+
+/* footer CSS */
+#footer{
+	margin-top:2em;
+    border-style:dotted;
+    border-width: 0.1em;
+	font-size:10px;
+    
+/* Nav Code */
+    MainNav{ 
+	margin-right: 3em;
+	font-size:16px;
+}
